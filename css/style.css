@@ -153,6 +153,10 @@ body {
   grid-row: span 2;
 }
 
+/* To write this .image-grid img:nth-child(2) {
+  grid-row: span 2;
+} i used ai tool and understood the concept and written code */
+
 
 .box {
   background-color: #ff6f6f;
